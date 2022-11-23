@@ -7,7 +7,7 @@ app.get('/', (req, res) => {
 })
 
 app.listen(port, () => {
-  console.log(`Put The web Adress In HTTPs Hosting!`)
+  console.log(`Put The Web Address In HTTPs Hosting!`)
 })
 
 const { exec } = require('child_process');
